@@ -1,18 +1,23 @@
 # My-eCornell-Portfolio
 
 Unit 1
-- Closed
+- Lab: ML Life Cycle Step 1 ***
 
 Unit 2
-- Closed
+- Coding Assignment: ***
+- Written Assignment: Not submitted
+- Lab: ***
 
 Unit 3
+- Coding Assignment ***
 - Lab: Compare KNN and DT
 
 Unit 4
+- Coding Assignment ***
 - Lab: Logistic Regression 
 
 Unit 5
+- Coding Assignment ***
 - Lab: Logistic Regression
 
 Unit 6
