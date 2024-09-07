@@ -1,6 +1,7 @@
 # My-eCornell-Portfolio
 
 Unit 1
+- No Coding Assignment
 - Written Assignment
 - Lab: ML Life Cycle Business Understanding and Problem Formulation (Step 1) 
 
@@ -15,12 +16,12 @@ Unit 3
 - Lab: ML Life Cycle Modeling and Comparing KNN and DT (Step 4)
 
 Unit 4
-- Coding Assignment Optimizing Logistic Regression
+- Coding Assignment: Optimizing Logistic Regression
 - Written Assignment
 - Lab: ML Life Cycle Modeling Logistic Regression (Step 4)
 
 Unit 5
-- Coding Assignment Model Selection for KNN
+- Coding Assignment: Model Selection for KNN
 - Written Assignment
 - Lab: ML Life Cycle Evaluation and Deployment of Logistic Regression (Steps 5 and 6)
 
